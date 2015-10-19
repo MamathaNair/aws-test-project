@@ -15,8 +15,8 @@
   "bugs": {
     "url": "https://github.com/MamathaNair/aws-test-project/issues"
   },
-  "homepage": "https://github.com/MamathaNair/aws-test-project#readme"
-    "dependencies": {
-        "express": "^4.12.4"
-    }
+  "homepage": "https://github.com/MamathaNair/aws-test-project#readme",
+   "dependencies": {
+       "express": "^4.12.4"
+   }
 }
